@@ -5,7 +5,13 @@
 ---
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Learner;Creative+UI+Designer;Always+Learning+New+Things](https://github.com/SakshiParbat/sakshi-parbat/blob/main/Gemini_Generated_Image_o6w8bbo6w8bbo6w8.png?raw=true)" />
+  <img src="https://github.com/SakshiParbat/sakshi-parbat/blob/main/Gemini_Generated_Image_o6w8bbo6w8bbo6w8.png?raw=true" width="150" style="border-radius:50%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+Learner;Creative+UI+Designer;Building+Modern+Websites;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -16,7 +22,7 @@
 - 💻 I love building **responsive & user-friendly websites**
 - 🎯 Goal: Become a **Full Stack Developer**
 - 💡 Passionate about **UI/UX Design**
-- 📫 Reach me at: **sakshi.job02@gmail.com**
+- 📫 Reach me at: **sakshi.job02@gmial.com**
 
 ---
 
@@ -39,11 +45,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-parbat&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshiParbat&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-parbat&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiParbat&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi-parbat&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SakshiParbat&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
