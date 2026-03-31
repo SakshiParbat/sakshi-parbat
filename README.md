@@ -1,50 +1,69 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">@sakshi-parbat | Frontend Developer | React Learner</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sakshi-parbat/sakshi-parbat/main/profile.jpg" width="150"/>
-</p>
+<h3 align="center">💻 Frontend Developer | ⚛️ React Learner | 🚀 Future Full Stack Developer</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Learner;Always+Learning+New+Things" />
+  <img src="[https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Learner;Creative+UI+Designer;Always+Learning+New+Things](https://github.com/SakshiParbat/sakshi-parbat/blob/main/Gemini_Generated_Image_o6w8bbo6w8bbo6w8.png?raw=true)" />
 </p>
 
 ---
 
-🌱 I’m currently learning **React & Backend Development**
+## 👩‍💻 About Me
 
-💻 I love building **responsive & user-friendly websites**
-
-📫 How to reach me: **sakshi.job02@gmail.com**
-
----
-
-### 🚀 Languages and Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git" />
-</p>
+- 🌱 I’m currently learning **React & Backend Development**
+- 💻 I love building **responsive & user-friendly websites**
+- 🎯 Goal: Become a **Full Stack Developer**
+- 💡 Passionate about **UI/UX Design**
+- 📫 Reach me at: **sakshi.job02@gmail.com**
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-parbat&show_icons=true&theme=tokyonight" />
-</p>
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-parbat&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
+## 🚀 Current Focus
+
+- 🔥 Building real-world projects  
+- ⚛️ Improving React skills  
+- 🌐 Learning backend development  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-parbat-3287b5207/">LinkedIn</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-parbat&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-parbat&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### ⚡ Fun Fact:
-I love designing creative websites 💖
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-parbat-3287b5207/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💖 I love designing creative and beautiful websites  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshi-parbat&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
